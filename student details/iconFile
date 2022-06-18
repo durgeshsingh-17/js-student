@@ -1,0 +1,26 @@
+<div style="max-width:400px;margin:auto">
+<div class="input-icons">
+    <i class="fa-solid fa-city"></i>
+    <input class="input-field" type="text">
+</div>
+</div>
+
+.input-icons i {
+    position: absolute;
+}
+ 
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+ 
+.icon {
+    padding: 10px;
+    min-width: 80px;
+}
+ 
+.input-field {
+    width: 100%;
+    padding: 10px;
+    // text-align: center;
+}
